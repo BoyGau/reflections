@@ -1,0 +1,9 @@
+1.See the different?
+2.No software is perfect, when we wrong we can go back
+3.Pros: make us think when to choose, which we in control, prevent too much commits
+  Cons: sometime we think wrong
+4.I don't know, maybe they have autosave?
+5. Type git log to view all commits start from newest change from the top, then press down key to scroll. Use git diff to 
+compare two commits. Another way you want to count changes is to use git diff --stat!
+6.We can go back to previous version at anytime, so no worry about breaking anything!
+7. What if I don't install Git workspace, because i didn't!
