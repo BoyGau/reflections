@@ -1,4 +1,1 @@
 1. It's create a new repository, which i can track file and use version control on my files!
-2. It's just hold file temporaly so it's different from working directory, and it's can't track files so it's not a
-repository. I think stagging area offer us to control which files we should add to create a commit, so we can control 
-to add it or not in a many-files case!
