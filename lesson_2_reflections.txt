@@ -3,3 +3,5 @@
 repository. I think stagging area offer us to control which files we should add to create a commit, so we can control 
 to add it or not in a many-files case!
 3. Use 'git status' after use add to stagging area and use 'git diff' 'git diff --staged' to check content.
+4. Branches keep things tidy 'cause when you want to experimental something you dont have to save it on master branch, but still you can still save it.
+If only one brach you would have to commit and go back alot since you're experimenting!
