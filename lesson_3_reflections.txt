@@ -1,0 +1,3 @@
+(I didn't write down questions, just answer on reflection 1 and 2, should have done that)
+When would you want to use a remote repository rather than keeping all your work local?
+- When i want to push it to GitHub, only if im very sure to push it.
