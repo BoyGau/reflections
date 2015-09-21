@@ -6,3 +6,5 @@ to add it or not in a many-files case!
 4. Branches keep things tidy 'cause when you want to experimental something you dont have to save it on master branch, but still you can still save it.
 If only one brach you would have to commit and go back alot since you're experimenting!
 5. It help me visualize it as how many branch are there and their position.
+6. Two branches merge to one that have both  of the two commit. Because we know it?
+7. Automatic is good if nothing conflict. If conflict just do manual
