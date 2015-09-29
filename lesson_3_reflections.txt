@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 branches is just create branches!.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 - Offline benefits and we can compare two version of remote when go to online state.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- Me and my friend used DropBox several times. It's harder because we are difficult to make experiment of new things, and easier
+because its faster to done things, but git still far better.
