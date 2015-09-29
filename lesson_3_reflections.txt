@@ -11,3 +11,6 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 - Me and my friend used DropBox several times. It's harder because we are difficult to make experiment of new things, and easier
 because its faster to done things, but git still far better.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- When you really thinks your experiments things  its big enough, go on to seperate branch, else just make changes in master directly
+since it's time wasting if the change is small.
